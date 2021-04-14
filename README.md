@@ -1,6 +1,7 @@
 # Best_Neighborhood
 
 Team Name: SGL
+
 Team Members: Sam Garthwaite: SJG89@pitt.edu, Garrett Barber: GAB98@pitt.edu, Liying Qin: LIQ13@pitt.edu
 
 Link to main dataset: https://data.wprdc.org/dataset/pgh
